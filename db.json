@@ -8,6 +8,14 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "id": 1,
+    "title": "hello",
+    "date": "10-20-2020",
+    "new":"123"
+  },
+  "News":{
+  "sport":"1",
+  "movie":"2"
   }
 }
