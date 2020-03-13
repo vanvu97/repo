@@ -21,5 +21,9 @@
   "history":{
   	"character":"Tran Quoc Toang",
   	"action":"Bop Nat Qua Cam"
+  },
+  "present":{
+  	"president":"Trump",
+  	"country": "US"
   }
 }
