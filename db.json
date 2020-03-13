@@ -3,16 +3,15 @@
     {
       "id": 1,
       "title": "hello",
-      "date": "10-20-2020",
+      "date": "03-13-2020",
       "new":"123"
     }
   ],
   "profile": {
-    "name": "typicode",
+    "name": "Happy Endding",
     "id": 1,
-    "title": "hello",
-    "date": "10-20-2020",
-    "new":"123"
+    "title": "first API",
+    "date": "03-13-2020",
   },
   "news":{
   	"sport":"1",
